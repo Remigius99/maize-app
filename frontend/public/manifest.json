@@ -1,0 +1,25 @@
+{
+  "short_name": "maize App",
+  "name": "MaizeGuard AI - Smart Assistant for Maize Leaf Disease Detection",
+  "icons": [
+    {
+      "src": "maizecopy1.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "imagesco.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "imagesco.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

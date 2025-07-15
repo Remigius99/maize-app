@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Blight', 'Common Rust', 'Gray Leaf Spot', 'Healthy']
